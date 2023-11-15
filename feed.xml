@@ -3,7 +3,7 @@
     <title>Projekty</title>
     <link href="https://area-51.cz/feed.xml" rel="self" />
     <link href="https://area-51.cz" />
-    <updated>2023-09-05T03:01:58+02:00</updated>
+    <updated>2023-11-15T02:17:12+01:00</updated>
     <author>
         <name>Jan Rippl</name>
     </author>
@@ -16,10 +16,10 @@
         </author>
         <link href="https://area-51.cz/project-c.html"/>
         <id>https://area-51.cz/project-c.html</id>
-        <media:content url="https://area-51.cz/media/posts/3/2022-07-23-10-04-23.jpg" medium="image" />
+        <media:content url="https://area-51.cz/media/posts/3/hangar.png" medium="image" />
             <category term="Photos"/>
 
-        <updated>2023-08-14T20:29:08+02:00</updated>
+        <updated>2023-11-15T02:17:12+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -48,7 +48,7 @@
             <category term="Photos"/>
             <category term="3D"/>
 
-        <updated>2023-09-05T03:01:58+02:00</updated>
+        <updated>2023-11-15T02:15:08+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://area-51.cz/media/posts/1/oblicej.png" alt="" />
@@ -59,10 +59,7 @@
             <![CDATA[
                     <p><img src="https://area-51.cz/media/posts/1/oblicej.png" class="type:primaryImage" alt="" /></p>
                 <p>text</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://area-51.cz/media/posts/1/gallery/oblicej.png" data-size="1920x1080"><img loading="lazy" src="https://area-51.cz/media/posts/1/gallery/oblicej-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://area-51.cz/media/posts/1/gallery/rozkrok.png" data-size="1920x1080"><img loading="lazy" src="https://area-51.cz/media/posts/1/gallery/rozkrok-thumbnail.png" alt="" width="768" height="432"></a></figure>
-</div></div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="3"> </div></div>
 <h2>Female Advanced V2</h2>
 <nav class="post__toc" aria-expanded="false">
 <h3 id="sublist-0" tabindex="0">Table of Contents<button class="post__toc-toogle">Show</button></h3>
