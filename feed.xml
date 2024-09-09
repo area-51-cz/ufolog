@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>AREA-51</title>
+    <link href="https://area-51.cz/feed.xml" rel="self" />
+    <link href="https://area-51.cz" />
+    <updated>2024-09-09T22:12:26+02:00</updated>
+    <author>
+        <name>AREA-51</name>
+    </author>
+    <id>https://area-51.cz</id>
+
+    <entry>
+        <title>AREA-51</title>
+        <author>
+            <name>AREA-51</name>
+        </author>
+        <link href="https://area-51.cz/area-51.html"/>
+        <id>https://area-51.cz/area-51.html</id>
+        <media:content url="https://area-51.cz/media/posts/1/slide1_bg.jpg" medium="image" />
+            <category term="Projects [li&#x3D;square-kanban]"/>
+            <category term="Bootstrap [li&#x3D;app-window]"/>
+            <category term="3D [li-box]"/>
+
+        <updated>2024-09-03T01:48:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://area-51.cz/media/posts/1/slide1_bg.jpg" alt="cgdream.ai" />
+                    This article in English is about the my project management websites here...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://area-51.cz/media/posts/1/slide1_bg.jpg" class="type:primaryImage" alt="cgdream.ai" /></p>
+                <p>This article in English is about the my project management websites here...</p>
+<figure class="post__image"><img loading="lazy"  src="https://area-51.cz/media/posts/1/slide2_bg.jpg" alt="" width="1920" height="1080" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://area-51.cz/media/posts/1/responsive/slide2_bg-xs.jpg 320w ,https://area-51.cz/media/posts/1/responsive/slide2_bg-sm.jpg 480w ,https://area-51.cz/media/posts/1/responsive/slide2_bg-md.jpg 768w ,https://area-51.cz/media/posts/1/responsive/slide2_bg-xl.jpg 1024w"></figure>
+<p>Some next text...</p>
+<figure class="post__image"><img loading="lazy"  src="https://area-51.cz/media/posts/1/slide3_bg.jpg" alt="" width="1920" height="1080" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://area-51.cz/media/posts/1/responsive/slide3_bg-xs.jpg 320w ,https://area-51.cz/media/posts/1/responsive/slide3_bg-sm.jpg 480w ,https://area-51.cz/media/posts/1/responsive/slide3_bg-md.jpg 768w ,https://area-51.cz/media/posts/1/responsive/slide3_bg-xl.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

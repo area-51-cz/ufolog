@@ -1,0 +1,1 @@
+Canonical: https://area-51.cz/security.txt

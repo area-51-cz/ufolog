@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://area-51.cz/sitemap.xml
